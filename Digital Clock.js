@@ -12,7 +12,7 @@
   top : 50%;
   left : 50%;
   transform : translateX(-50%) translateY(-50%);
-  fony-size : 60px;
+  font-size : 60px;
   font-family : Orbitron;
   Letter-spacing : 7px;
 }
